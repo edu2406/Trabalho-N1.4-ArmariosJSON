@@ -1,0 +1,23 @@
+{
+  "bloco 1": {
+    "armarios": [
+      {"numero": "01", "estado": "ocupado"},
+      {"numero": "02", "estado": "manutencao"},
+      {"numero": "03", "estado": "desocupado"},
+      {"numero": "04", "estado": "ocupado"},
+      {"numero": "05", "estado": "ocupado"},
+      {"numero": "06", "estado": "desocupado"}
+    ]
+  },
+  "bloco 2": {
+    "armarios": [
+      {"numero": "07", "estado": "ocupado"},
+      {"numero": "08", "estado": "desocupado"},
+      {"numero": "09", "estado": "desocupado"},
+      {"numero": "10", "estado": "desocupado"},
+      {"numero": "11", "estado": "ocupado"},
+      {"numero": "12", "estado": "manutencao"}
+    ]
+  }
+  
+}
